@@ -1,6 +1,6 @@
 id,category,platform,resolution,size,thumbnail_url,image_url,tags
 1,Nature,Android,1080x1920,250KB,https://example.com/thumb1.jpg,https://example.com/image1.jpg,"forest,sunset,landscape"
-2,Abstract,iOS,1242x2208,300KB,https://example.com/thumb2.jpg,https://example.com/image2.jpg,"geometric,colors,modern"
+2,Abstract,PC,1242x2208,300KB,https://example.com/thumb2.jpg,https://example.com/image2.jpg,"geometric,colors,modern"
 3,Space,Android,1440x2560,350KB,https://example.com/thumb3.jpg,https://example.com/image3.jpg,"galaxy,stars,nebula"
-4,Minimal,iOS,750x1334,200KB,https://example.com/thumb4.jpg,https://example.com/image4.jpg,"white,clean,simple"
+4,Minimal,PC,750x1334,200KB,https://example.com/thumb4.jpg,https://example.com/image4.jpg,"white,clean,simple"
 5,Artistic,Android,1080x1920,280KB,https://example.com/thumb5.jpg,https://example.com/image5.jpg,"painting,brushstrokes,creative"

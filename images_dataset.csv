@@ -1,3 +1,3 @@
-id,category,platform,resolution,size,thumbnail_url,image_url
-1,Nature,Mobile,2K,5MB,https://i.pinimg.com/736x/b0/f7/5a/b0f75afc2239a177fe5e31e27fab22bd.jpg,https://i.pinimg.com/736x/b0/f7/5a/b0f75afc2239a177fe5e31e27fab22bd.jpg
-2,Sci-Fi,PC,4K,15MB,https://i.pinimg.com/736x/c0/58/9f/c0589f4cbf0eabe6c2a2d1a356ba0ab7.jpg,https://i.pinimg.com/736x/c0/58/9f/c0589f4cbf0eabe6c2a2d1a356ba0ab7.jpg
+id,category,platform,resolution,size,thumbnail_url,image_url,tags
+1,Nature,Mobile,2K,5MB,https://i.pinimg.com/736x/b0/f7/5a/b0f75afc2239a177fe5e31e27fab22bd.jpg,https://i.pinimg.com/736x/b0/f7/5a/b0f75afc2239a177fe5e31e27fab22bd.jpg,forest,green,trees
+2,Sci-Fi,PC,4K,15MB,https://i.pinimg.com/736x/c0/58/9f/c0589f4cbf0eabe6c2a2d1a356ba0ab7.jpg,https://i.pinimg.com/736x/c0/58/9f/c0589f4cbf0eabe6c2a2d1a356ba0ab7.jpg,space,futuristic,city

@@ -1,6 +1,6 @@
 id,category,platform,resolution,size,thumbnail_url,image_url,tags
-1,Nature,Android,1080x1920,250KB,https://images.unsplash.com/photo-1506748686211-9e1c9c8a1c3b,https://images.unsplash.com/photo-1506748686211-9e1c9c8a1c3b,"forest,sunset,landscape"
-2,Abstract,iOS,1242x2208,300KB,https://images.unsplash.com/photo-1517261275530-3a7b8d2b9a6e,https://images.unsplash.com/photo-1517261275530-3a7b8d2b9a6e,"geometric,colors,modern"
-3,Space,Android,1440x2560,350KB,https://images.unsplash.com/photo-1494253108402-9d1b6a1e6c1b,https://images.unsplash.com/photo-1494253108402-9d1b6a1e6c1b,"galaxy,stars,nebula"
-4,Minimal,iOS,750x1334,200KB,https://images.unsplash.com/photo-1506748686211-9e1c9c8a1c3b,https://images.unsplash.com/photo-1506748686211-9e1c9c8a1c3b,"white,clean,simple"
-5,Artistic,Android,1080x1920,280KB,https://images.unsplash.com/photo-1517261275530-3a7b8d2b9a6e,https://images.unsplash.com/photo-1517261275530-3a7b8d2b9a6e,"painting,brushstrokes,creative"
+1,Nature,Mobile,1080x1920,250KB,https://faradars.org/courses/flutter-designing-mobile-application-using-flutter-fvflt0104,https://faradars.org/courses/flutter-designing-mobile-application-using-flutter-fvflt0104,"forest,sunset,landscape"
+2,Abstract,Mobile,1242x2208,300KB,https://faradars.org/courses/project-oriented-flutter-designing-ads-application-fvflt0121,https://faradars.org/courses/project-oriented-flutter-designing-ads-application-fvflt0121,"geometric,colors,modern"
+3,Space,Mobile,1440x2560,350KB,https://faradars.org/courses/building-2d-games-using-flame-flutter-fvflt306,https://faradars.org/courses/building-2d-games-using-flame-flutter-fvflt306,"galaxy,stars,nebula"
+4,Minimal,Mobile,750x1334,200KB,https://faradars.org/courses/project-oriented-flutter-designing-user-interface-of-filmo-application-fvflt104,https://faradars.org/courses/project-oriented-flutter-designing-user-interface-of-filmo-application-fvflt104,"white,clean,simple"
+5,Artistic,Mobile,1080x1920,280KB,https://faradars.org/courses/project-oriented-flutter-instagram-user-interface-design-fvflt010,https://faradars.org/courses/project-oriented-flutter-instagram-user-interface-design-fvflt010,"painting,brushstrokes,creative"

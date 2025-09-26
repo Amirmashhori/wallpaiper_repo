@@ -1,6 +1,6 @@
 id,category,platform,resolution,size,thumbnail_url,image_url
-1,Nature,Mobile,2K,5MB,https://via.placeholder.com/150/92c952,https://via.placeholder.com/600/92c952
-2,Sci-Fi,PC,4K,15MB,https://via.placeholder.com/150/771796,https://via.placeholder.com/600/771796
-3,Abstract,Mobile,PC,3K,8MB,https://via.placeholder.com/150/24f355,https://via.placeholder.com/600/24f355
-4,City,Mobile,2K,6MB,https://via.placeholder.com/150/d32776,https://via.placeholder.com/600/d32776
-5,Space,PC,4K,12MB,https://via.placeholder.com/150/f66b97,https://via.placeholder.com/600/f66b97
+1,Nature,Mobile,2K,5MB,https://www.pexels.com/photo/forest-trees-1236701/download/?search_query=nature&tracking_id=example,https://images.pexels.com/photos/1236701/pexels-photo-1236701.jpeg
+2,Sci-Fi,PC,4K,15MB,https://www.pexels.com/photo/futuristic-city-night-373543/download/?search_query=sci-fi&tracking_id=example,https://images.pexels.com/photos/373543/pexels-photo-373543.jpeg
+3,Abstract,Mobile,PC,3K,8MB,https://www.pexels.com/photo/colorful-abstract-background-1761279/download/?search_query=abstract&tracking_id=example,https://images.pexels.com/photos/1761279/pexels-photo-1761279.jpeg
+4,City,Mobile,2K,6MB,https://www.pexels.com/photo/city-night-lights-2397653/download/?search_query=city&tracking_id=example,https://images.pexels.com/photos/2397653/pexels-photo-2397653.jpeg
+5,Space,PC,4K,12MB,https://www.pexels.com/photo/space-galaxy-stars-2159/download/?search_query=space&tracking_id=example,https://images.pexels.com/photos/2159/space-stars-galaxy-universe.jpeg

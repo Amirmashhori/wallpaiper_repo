@@ -1,6 +1,5 @@
 id,category,platform,resolution,size,thumbnail_url,image_url,tags
-1,Nature,Mobile,2K,5MB,https://i.pinimg.com/236x/b0/f7/5a/b0f75afc2239a177fe5e31e27fab22bd.jpg,https://i.pinimg.com/736x/b0/f7/5a/b0f75afc2239a177fe5e31e27fab22bd.jpg,forest,green,trees
-2,Sci-Fi,PC,4K,15MB,https://i.pinimg.com/236x/c0/58/9f/c0589f4cbf0eabe6c2a2d1a356ba0ab7.jpg,https://i.pinimg.com/736x/c0/58/9f/c0589f4cbf0eabe6c2a2d1a356ba0ab7.jpg,space,futuristic,city
-3,Abstract,Mobile,1080p,3MB,https://i.pinimg.com/236x/4b/4c/f6/4b4cf6f9f5b14a17c028cfd70d28bff0.jpg,https://i.pinimg.com/736x/4b/4c/f6/4b4cf6f9f5b14a17c028cfd70d28bff0.jpg,art,shapes,colorful
-4,Cars,Mobile,4K,7MB,https://i.pinimg.com/236x/ef/61/09/ef610981b5171d7f9c5d32f9e2ff81a7.jpg,https://i.pinimg.com/736x/ef/61/09/ef610981b5171d7f9c5d32f9e2ff81a7.jpg,car,vehicle,sport
-5,Fantasy,PC,4K,12MB,https://i.pinimg.com/236x/a9/2d/88/a92d8826ed31a61bdaff9db78e377c4b.jpg,https://i.pinimg.com/736x/a9/2d/88/a92d8826ed31a61bdaff9db78e377c4b.jpg,dragon,castle,magic
+1,Sci-Fi,PC,4K,15MB,https://i.pinimg.com/236x/c0/58/9f/c0589f4cbf0eabe6c2a2d1a356ba0ab7.jpg,https://i.pinimg.com/736x/c0/58/9f/c0589f4cbf0eabe6c2a2d1a356ba0ab7.jpg,space,futuristic,city
+2,Abstract,Mobile,1080p,3MB,https://i.pinimg.com/236x/4b/4c/f6/4b4cf6f9f5b14a17c028cfd70d28bff0.jpg,https://i.pinimg.com/736x/4b/4c/f6/4b4cf6f9f5b14a17c028cfd70d28bff0.jpg,art,shapes,colorful
+3,Cars,Mobile,4K,7MB,https://i.pinimg.com/236x/ef/61/09/ef610981b5171d7f9c5d32f9e2ff81a7.jpg,https://i.pinimg.com/736x/ef/61/09/ef610981b5171d7f9c5d32f9e2ff81a7.jpg,car,vehicle,sport
+4,Fantasy,PC,4K,12MB,https://i.pinimg.com/236x/a9/2d/88/a92d8826ed31a61bdaff9db78e377c4b.jpg,https://i.pinimg.com/736x/a9/2d/88/a92d8826ed31a61bdaff9db78e377c4b.jpg,dragon,castle,magic
